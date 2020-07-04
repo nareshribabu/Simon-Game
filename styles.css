@@ -1,0 +1,62 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+
+footer {
+  font-family: 'Press Start 2P', cursive;
+  color: #FEF2BF;
+  margin-top: 20px;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  color: #FEF2BF;
+  margin-top: 5%;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  margin: 15px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+/* This website was created for learning purposes only.
+None of the sounds belong to me and are used for learning purposes.
+None of the images belong to me and are used for learning purposes. */
